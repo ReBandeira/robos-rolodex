@@ -1,1 +1,1 @@
-Aplicação simples proposta no módulo básico do curso Complete reac developer - ZTM, com objetivo de facilitar o entendimento do ciclo de vida de componentes em React com a utilização de class components.
+Aplicação simples proposta no módulo básico do curso Complete React Developer - ZTM, com objetivo de facilitar o entendimento do ciclo de vida de componentes em React com a utilização de class components e posteriormente, atualizando-os para componentes funcionais.
